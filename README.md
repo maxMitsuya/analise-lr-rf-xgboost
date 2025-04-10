@@ -50,7 +50,7 @@ pipeline = Pipeline([
 | Regressão Logística        | 0.383    | 0.637  | 0.650   |
 
 ## 📉 Gráfico de Comparação
-![Model Comparison](https://i.imgur.com/model_comparison_churn.png)  
+![Model Comparison](https://github.com/maxMitsuya/analise-lr-rf-xgboost/blob/main/results.png)  
 *Desempenho dos modelos em diferentes métricas*
 
 ## 🏆 Melhor Modelo: XGBoost Otimizado
