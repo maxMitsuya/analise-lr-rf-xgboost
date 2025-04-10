@@ -23,7 +23,7 @@ Dados de comportamento de clientes de e-commerce contendo:
 ## 📈 Análise Exploratória
 
 ### Matriz de Correlação
-![Correlation Heatmap](https://i.imgur.com/corr_matrix_churn.png)
+![Correlation Heatmap](https://github.com/maxMitsuya/analise-lr-rf-xgboost/blob/main/confusion_matrix.png)
 *Correlação entre features e variável target (Churn)*
 
 ### Principais Insights:
