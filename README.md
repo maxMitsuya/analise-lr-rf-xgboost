@@ -23,7 +23,7 @@ Dados de comportamento de clientes de e-commerce contendo:
 ## 📈 Análise Exploratória
 
 ### Matriz de Correlação
-![Correlation Heatmap](https://github.com/maxMitsuya/analise-lr-rf-xgboost/blob/main/confusion_matrix.png)
+![Correlation Heatmap]()
 *Correlação entre features e variável target (Churn)*
 
 ### Principais Insights:
@@ -65,7 +65,7 @@ pipeline = Pipeline([
 }
 ```
 ## 📊 Matriz de Confusão
-![Confusion Matrix](https://i.imgur.com/conf_matrix_xgboost.png)  
+![Confusion Matrix](https://github.com/maxMitsuya/analise-lr-rf-xgboost/blob/main/confusion_matrix.png)  
 *Performance do modelo em prever churn (74.2% de recall)*
 
 ## 💡 Insights Finais
